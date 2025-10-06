@@ -25,9 +25,6 @@ The methods and evaluation follow my assignment write-up included here: [`paper/
 │     ├─ closed_form time.JPG
 │     ├─ Cholesky time.JPG
 │     └─ CG times.JPG
-├─ paper/
-│  └─ hw2-15-17.pdf
-├─ results/            # (optional: logs/metrics)
 ├─ requirements.txt
 ├─ .gitignore
 └─ LICENSE
