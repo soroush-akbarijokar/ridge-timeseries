@@ -6,8 +6,6 @@ This repository contains my NumPy implementation of ridge regression for univari
 * **Cholesky decomposition**
 * **Conjugate Gradient (CG)**
 
-The methods and evaluation follow my assignment write-up included here: [`paper/hw2-15-17.pdf`](paper/hw2-15-17.pdf). 
-
 ## Repo structure
 
 ```
